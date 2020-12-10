@@ -1,0 +1,11 @@
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\bin\Debug\netcoreapp2.2\CardsGame.deps.json
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\bin\Debug\netcoreapp2.2\CardsGame.runtimeconfig.json
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\bin\Debug\netcoreapp2.2\CardsGame.runtimeconfig.dev.json
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\bin\Debug\netcoreapp2.2\CardsGame.dll
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\bin\Debug\netcoreapp2.2\CardsGame.pdb
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.csprojAssemblyReference.cache
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.AssemblyInfoInputs.cache
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.AssemblyInfo.cs
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.dll
+C:\Users\CG-DTE\Angular projects\dotnet-console\CardsGame\obj\Debug\netcoreapp2.2\CardsGame.pdb
